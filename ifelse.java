@@ -30,12 +30,6 @@ public class ifelse {
         else{
                 System.out.println("old");
             }
-       
-
-        
-
-
-        
 
     } 
 }
