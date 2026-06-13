@@ -18,6 +18,7 @@ public class ATMDenomination {
 
         if (amount >0){
             System.out.println("Remaining amount ");
+            scanner.close();
         }
 
     }
